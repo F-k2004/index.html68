@@ -14,7 +14,7 @@ canvas{display:block}
  color:#d9f3ff;font-size:13px;min-width:540px;
 }
 .good{color:#9ff0ff}
-.warn{color:#ffcc66}
+.arn{color:#ffcc66}
 .bad{color:#ff6666}
 </style>
 </head>
